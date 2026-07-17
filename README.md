@@ -31,4 +31,4 @@ cargo build --release
 All parameters are in config.toml. Read more...
 ## License
 
-Licensed under the [MIT License](LICENSE-MIT).
+Licensed under the [MIT License](LICENSE).
